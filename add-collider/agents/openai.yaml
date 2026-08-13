@@ -1,0 +1,4 @@
+interface:
+  display_name: "Add Collider"
+  short_description: "Agrega colliders y profundidad correcta a TMX"
+  default_prompt: "Usa $add-collider para agregar colliders y superposición natural a los objetos de este mapa Tiled."
